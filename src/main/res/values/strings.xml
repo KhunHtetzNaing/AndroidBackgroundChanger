@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BG Changer</string>
+    <string name="action_settings">About App</string>
+
+    <string name="prompt">Choose Style</string>
+
+    <string-array name="titles">
+        <item>Choose Style</item>
+        <item>Fix Width and Height</item>
+        <item>Fix Center</item>
+        <item>Center</item>
+        <item>Fix Center Crop</item>
+        <item>Fix Center Inside</item>
+        <item>Fix Start</item>
+        <item>Fix End</item>
+        <item>Matrix</item>
+    </string-array>
+    <string name="title_activity_about">About App</string>
+</resources>
